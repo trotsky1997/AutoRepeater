@@ -37,6 +37,7 @@ python -m pyinstaller -F -w main.py --hidden-import=queue
 ### 使用方法
 
 ![](2020-05-26-16-46-41.png)
+
 `复制`需要降重的文本,点击`paste`,等待程序处理后点击`Copy`复制降重后的文本.
 
 ## 声明
